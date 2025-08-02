@@ -79,5 +79,5 @@ This module covered essential formatting skills to make spreadsheets visually cl
     - Present findings in a professional manner
     - Build dashboards and reports that support data-driven decisions
 
-
+![IMG_8199](https://github.com/user-attachments/assets/9fdfc705-88e1-4076-b773-619c51b51195)
 
